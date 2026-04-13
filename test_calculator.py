@@ -1,3 +1,7 @@
+# https://github.com/izPilot/lab11-br-hf
+# Partner 1: Hunter Fairbanks
+# Partner 2: Braden Rennolds
+
 import unittest
 from calculator import *
 
