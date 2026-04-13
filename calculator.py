@@ -19,10 +19,8 @@ def square_root(a):
         return math.sqrt(a)
 
     except ValueError as ve:
-        print(f"ValueError caught: {ve}")
         return None
     except TypeError:
-        print("TypeError caught: Input must be a number.")
         return None
 
 def hypotenuse(a, b):
